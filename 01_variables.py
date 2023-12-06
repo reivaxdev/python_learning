@@ -13,4 +13,9 @@ print(type(my_int_to_str_variable))
 my_bool_variable = True
 print(my_int_variable)
 
+
+# concatenacion de cadenas
 print(my_variable, str(my_int_variable), my_bool_variable)
+
+
+# min 01:05:26
